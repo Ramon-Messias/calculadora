@@ -24,11 +24,10 @@ Projeto simples de calculadora feito com **HTML, CSS e JavaScript**.
 
 ## Estrutura do projeto
 
-calculador-js/
- ├── index.html
- ├── style.css
- └── script.js
-
+calculadora/
+├── index.html
+├── style.css
+└── script.js
 
 ## Autor
 
